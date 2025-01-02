@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Spiro, a Platform Engineer from Germany who loves coding in Go and is all about Cloud and DevOps.
+I'm Spiro, a Platform Engineer from Germany who loves coding in Go, working with Kubernetes, and shaping modern Cloud and DevOps solutions.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Spiridon_Fotiadis-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/spiridon-fotiadis-663a4b1b6)
