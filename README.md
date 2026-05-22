@@ -25,7 +25,6 @@ Currently Working towards CKA & CKS.
 ### Governance & Networking
 ![Kyverno](https://img.shields.io/badge/Kyverno-1F6FEB?logoColor=white)
 ![Cilium](https://img.shields.io/badge/Cilium-F8C517?logo=cilium&logoColor=black)
-![NetworkPolicies](https://img.shields.io/badge/NetworkPolicies-444444?logo=kubernetes&logoColor=white)
 
 ### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
